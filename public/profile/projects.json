@@ -1,0 +1,24 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/bakpaklogo.png",
+            "title": "Bakpack - Online e-commerce for school supplies",
+            "bodyText": "- A thesis system, for mobile application and an admin dashbaord\n -  Mobile responsive, paypal integration\n - Daily test for students basic knowledge \n",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/undesputed/Backpack"
+                }
+            ],
+            "tags" : [
+                "React Native",
+                "Express JS",
+                "Thesis",
+                "JavaScript",
+                "PHP",
+                "Node JS",
+                "Mysql"
+            ]
+        }
+    ]
+}

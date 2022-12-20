@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "June 2015 - October 2019",
+            "cardTitle": "Bachelor of Science and Information Technology",
+            "cardSubtitle":"University of Cebu",
+            "cardDetailedText": "",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "June 2011 - March 2015",
+            "cardTitle": "High School",
+            "cardSubtitle":"Ubay National Science High School",
+            "cardDetailedText": ""
+        }
+    ]
+}

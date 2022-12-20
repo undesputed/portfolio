@@ -1,0 +1,57 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer",
+            "subtitle": "HIPE Japan Inc.",
+            "workType": "Full-time",
+            "workDescription": [
+                "Develop a project from scratch and acts as a team leader for the projects",
+                "Assigns tasks and guide the members on what to do in the project"
+            ],
+            "dateText": "04/2022 - Present"
+        },
+        {
+            "title": "Web Developer",
+            "subtitle": "Ink Shared Solutions Inc.",
+            "workType": "Full-time",
+            "workDescription": [
+                "Create a landing page for authors, and help publish their book in the internet",
+                "Create a front-end templates for the landing pages,",
+                "Develop the company website from scratch."
+            ],
+            "dateText": "09/2020 - 09/2021"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Nerubia/Idearobin",
+            "workType": "Full-time",
+            "workDescription": [
+                "Assigned in a React js project, Help develop and improve existing website",
+                "Create micro services for the back-end and creating an API for the front-end",
+                "Develop using javascript frameworks such as React and node",
+                "Training for AWS Certification exam"
+            ],
+            "dateText": "10/2019 – 07/202020"
+        },
+        {
+            "title": "Web Developer",
+            "subtitle": "Responsive Code Tech Solutions",
+            "workType": "Full-time",
+            "workDescription": [
+                "Develop Inventory Management System for a computer parts store",
+                "Adding features and fixing bugs in the existing web application, Implement clients suggestions and desired features"
+            ],
+            "dateText": "02/2019 - 08/2019"
+        },
+        {
+            "title": "IT Support",
+            "subtitle": "Land Transportation Office (LTO)",
+            "workType": "Internship",
+            "workDescription": [
+                "Supports Employees and staff for the PC problems and issues",
+                "Assisting Employees with the servers."
+            ],
+            "dateText": "06/2018 - 08/2018"
+        }
+    ]
+}
